@@ -1,7 +1,12 @@
 ## B站视频
 尚硅谷MongoDB基础教程(数据库精讲)
+- https://www.bilibili.com/video/BV18s411E78K?p=1
 
-https://www.bilibili.com/video/BV18s411E78K?p=1
+其他相关资料：
+- https://blog.csdn.net/weixin_45715650/article/details/120155319
+- https://blog.csdn.net/lyyrhf/article/details/115469161
+- mongo官网的文档！
+
 
 
 ## 安装：

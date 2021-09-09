@@ -1,3 +1,9 @@
+## B站视频
+尚硅谷MongoDB基础教程(数据库精讲)
+
+https://www.bilibili.com/video/BV18s411E78K?p=1
+
+
 ## 安装：
 
 - [官网](https://www.mongodb.com/try/download/community)
